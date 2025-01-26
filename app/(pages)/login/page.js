@@ -37,12 +37,12 @@ const Login = () => {
   };
 
   return (
-    <div className="login-form min-h-screen relative">
+    <div className="login-form min-h-screen relative ">
       <div className="w-full h-screen">
         <BackgroundImage/>
       </div>
-      <div className="absolute inset-0 flex justify-center items-center">
-        <div className="bg-white/30 backdrop-blur-sm border border-white/50 rounded-xl shadow-lg p-8 w-[400px]">
+      <div className="absolute inset-0 flex justify-center items-center  ">
+        <div className="bg-white/30 backdrop-blur-sm border mt-16 border-white/50 rounded-xl shadow-lg p-8 w-[400px]">
           <h2 className="text-center text-3xl font-bold text-white mb-6">Sign In</h2>
           
           <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">

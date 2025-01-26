@@ -1,5 +1,5 @@
 import React from 'react'
-import { Home } from './sections/Home'
+import { Home } from './(components)/(header)/home/page'
 // import { Login } from './pages/login/page'
 
 const page = () => {

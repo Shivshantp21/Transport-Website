@@ -1,8 +1,8 @@
 "use client";
 import React from 'react'
-import BackgroundImage from '../addons/homeBackground'
+import BackgroundImage from '../../../addons/homeBackground'
 
-import { IconBtns } from '../addons/iconBtns';
+import { IconBtns } from '../../../addons/iconBtns';
 import Image from 'next/image';
 import { IoIosArrowDropright } from "react-icons/io";
 import {MdKeyboardArrowRight} from "react-icons/md";
