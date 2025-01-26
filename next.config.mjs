@@ -6,7 +6,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-      domains: ['cdn.pixabay.com','istockphoto.com'],
+      domains: ['cdn.pixabay.com', 'istockphoto.com', 'img.freepik.com', 'media.istockphoto.com','cdn.create.vista.com','encrypted-tbn0.gstatic.com',],
     },
   };
   
